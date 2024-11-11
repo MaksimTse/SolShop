@@ -2,9 +2,9 @@
 
 ## $\color{#1589F0}Sitemap$
 1. [Testing](https://github.com/MaksimTse/SolShop?tab=readme-ov-file#color1589f0cypress-testing-parts)
-2. [Cypress testing parts](https://github.com/MaksimTse/SolShop?tab=readme-ov-file#color1589f0cypress-testing-parts)
-3. [Cypress register log](https://github.com/MaksimTse/SolShop?tab=readme-ov-file#color1589f0cypress-register-log)
-4. [Cypress login log](https://github.com/MaksimTse/SolShop?tab=readme-ov-file#color1589f0cypress-login-log)
+1.1. [Cypress testing parts](https://github.com/MaksimTse/SolShop?tab=readme-ov-file#color1589f0cypress-testing-parts)
+1.2. [Cypress register log](https://github.com/MaksimTse/SolShop?tab=readme-ov-file#color1589f0cypress-register-log)
+1.3. [Cypress login log](https://github.com/MaksimTse/SolShop?tab=readme-ov-file#color1589f0cypress-login-log)
 
 5. ## $\color{#1589F0}Testing$
 Testing of the site was carried out in the cypress programme.

@@ -1,9 +1,12 @@
 # $\color{#1589F0}SolShop$
 
 ## $\color{#1589F0}Sitemap$
-1. [Testing](https://github.com/MartinKemppi/Kutse#color1589f0peode-pealeht)
+1. [Testing](https://github.com/MaksimTse/SolShop?tab=readme-ov-file#color1589f0cypress-testing-parts)
+2. [Cypress testing parts](https://github.com/MaksimTse/SolShop?tab=readme-ov-file#color1589f0cypress-testing-parts)
+3. [Cypress register log](https://github.com/MaksimTse/SolShop?tab=readme-ov-file#color1589f0cypress-register-log)
+4. [Cypress login log](https://github.com/MaksimTse/SolShop?tab=readme-ov-file#color1589f0cypress-login-log)
 
-2. ## $\color{#1589F0}Testing$
+5. ## $\color{#1589F0}Testing$
 Testing of the site was carried out in the cypress programme.
 
 ## $\color{#1589F0}Cypress testing parts$

@@ -1,19 +1,4 @@
-# $\color{#1589F0}SolShop$
-
-## $\color{#1589F0}Sitemap$
-1. [Testing](https://github.com/MaksimTse/SolShop?tab=readme-ov-file#color1589f0cypress-testing-parts)
-* [Cypress testing parts](https://github.com/MaksimTse/SolShop?tab=readme-ov-file#color1589f0cypress-testing-parts)
-* [Cypress register log](https://github.com/MaksimTse/SolShop?tab=readme-ov-file#color1589f0cypress-register-log)
-* [Cypress login log](https://github.com/MaksimTse/SolShop?tab=readme-ov-file#color1589f0cypress-login-log)
-
-## $\color{#1589F0}Testing$
-Testing of the site was carried out in the cypress programme.
-
-## $\color{#1589F0}Cypress testing parts$
-![cypress_log](https://github.com/user-attachments/assets/0103c276-4d89-4884-8746-38eb995f3a05)
-
-## $\color{#1589F0}Cypress register log$
-![cypress_log_register](https://github.com/user-attachments/assets/e896b814-2a38-4ead-848f-cb6a69695661)
-
-## $\color{#1589F0}Cypress login log$
-![cypress_log_login](https://github.com/user-attachments/assets/4cec39d1-b8af-4b98-9e5e-10d03057a98e)
+![image](https://github.com/user-attachments/assets/5c384611-9a9d-4afd-bab7-80e7a443da45)
+![image](https://github.com/user-attachments/assets/8290aa11-c958-4318-bf72-dae3936d53f4)
+![image](https://github.com/user-attachments/assets/ad0c42bb-3869-4176-9cb5-018778f11d0d)
+![image](https://github.com/user-attachments/assets/92ae4e81-75b4-4121-bdfd-a47ec81973d8)

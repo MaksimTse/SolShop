@@ -55,4 +55,13 @@ The test file is divided into logical blocks to ensure comprehensive coverage of
 
 
 ## Test Matrix
-![pilt](https://github.com/user-attachments/assets/e29cf15a-cce7-4031-8eb3-c1f310a0a8fe)
+
+
+| **Case**          | **Date**       | **Comment**                                                                                  | **PASS/FAIL** |
+|--------------------|----------------|----------------------------------------------------------------------------------------------|---------------|
+| Register           | 11.11.2024    | Worked without any issues                                                                   | PASS          |
+| Login              | 11.11.2024    | Worked without any issues                                                                   | PASS          |
+| Add to cart        | 15.11.2024    | Worked on test but had issue with database context before                                    | PASS          |
+| Purchase           | 17.11.2024    | Checkout couldn't be done because of the card data fill and address fill issues on the server| FAIL          |
+| Purchase           | 18.11.2024    | After debugging and refactoring the code logic everything worked                            | PASS          |
+
